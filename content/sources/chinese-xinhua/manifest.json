@@ -1,0 +1,32 @@
+{
+  "sourceId": "chinese-xinhua",
+  "repository": "https://github.com/pwxcoo/chinese-xinhua",
+  "revision": "fe6d6c2e8baa82187f4c96bbe042e43f96c05666",
+  "retrievedAt": "2026-09-18T16:43:20.786Z",
+  "repositoryLicense": "MIT",
+  "dataRightsStatus": "pending-review",
+  "note": "上游说明数据来自网站采集，MIT 为仓库声明，原始数据授权仍待核验；当前仅用于本地开发。",
+  "files": [
+    {
+      "path": "data/idiom.json",
+      "local": "idiom.json",
+      "url": "https://raw.githubusercontent.com/pwxcoo/chinese-xinhua/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/idiom.json",
+      "sha256": "1d4b4f454ce1c416d6a1ab2369d6e66c0ff99e04390172eef70790499e21ce19",
+      "bytes": 10319857
+    },
+    {
+      "path": "LICENSE",
+      "local": "LICENSE",
+      "url": "https://raw.githubusercontent.com/pwxcoo/chinese-xinhua/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/LICENSE",
+      "sha256": "4cc347022d0f50a5ddd45de1caf34aa1cf6ad71e68fa712b0fd30ab9b05e2da8",
+      "bytes": 1063
+    },
+    {
+      "path": "README.md",
+      "local": "README.md",
+      "url": "https://raw.githubusercontent.com/pwxcoo/chinese-xinhua/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/README.md",
+      "sha256": "c6b73d098c215740f33accd13f60f5d6a0dfeea237e0fe2742379cecf07b6f67",
+      "bytes": 3568
+    }
+  ]
+}

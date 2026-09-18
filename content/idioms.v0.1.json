@@ -1,0 +1,1459 @@
+{
+  "packId": "idiom-dev",
+  "version": "0.1.0-draft",
+  "status": "draft",
+  "prompts": [
+    "马",
+    "天",
+    "心",
+    "人",
+    "大",
+    "一",
+    "水",
+    "风",
+    "山",
+    "不"
+  ],
+  "entries": [
+    {
+      "answerId": "idiom-0001",
+      "text": "马到成功",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0002",
+      "text": "一马当先",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0003",
+      "text": "走马观花",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0004",
+      "text": "千军万马",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0005",
+      "text": "老马识途",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0006",
+      "text": "青梅竹马",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0007",
+      "text": "指鹿为马",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0008",
+      "text": "悬崖勒马",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0009",
+      "text": "车水马龙",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0010",
+      "text": "天马行空",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0011",
+      "text": "快马加鞭",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0012",
+      "text": "汗马功劳",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0013",
+      "text": "天高地厚",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0014",
+      "text": "天长地久",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0015",
+      "text": "天南地北",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0016",
+      "text": "天衣无缝",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0017",
+      "text": "天伦之乐",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0018",
+      "text": "天作之合",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0019",
+      "text": "天花乱坠",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0020",
+      "text": "天下无双",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0021",
+      "text": "异想天开",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0022",
+      "text": "海阔天空",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0023",
+      "text": "雨过天晴",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0024",
+      "text": "坐井观天",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0025",
+      "text": "心想事成",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0026",
+      "text": "心花怒放",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0027",
+      "text": "心平气和",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0028",
+      "text": "心满意足",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0029",
+      "text": "心旷神怡",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0030",
+      "text": "心直口快",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0031",
+      "text": "心领神会",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0032",
+      "text": "专心致志",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0033",
+      "text": "一心一意",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0034",
+      "text": "三心二意",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0035",
+      "text": "齐心协力",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0036",
+      "text": "将心比心",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0037",
+      "text": "人山人海",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0038",
+      "text": "人来人往",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0039",
+      "text": "人才济济",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0040",
+      "text": "人杰地灵",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0041",
+      "text": "人声鼎沸",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0042",
+      "text": "人尽其才",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0043",
+      "text": "助人为乐",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0044",
+      "text": "一鸣惊人",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0045",
+      "text": "引人入胜",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0046",
+      "text": "因人而异",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0047",
+      "text": "后继有人",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0048",
+      "text": "出人意料",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0049",
+      "text": "大惊小怪",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0050",
+      "text": "大材小用",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0051",
+      "text": "大公无私",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0052",
+      "text": "大显身手",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0053",
+      "text": "大海捞针",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0054",
+      "text": "大开眼界",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0055",
+      "text": "大功告成",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0056",
+      "text": "大同小异",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0057",
+      "text": "大智若愚",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0058",
+      "text": "大器晚成",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0059",
+      "text": "大义凛然",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0060",
+      "text": "大名鼎鼎",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0061",
+      "text": "一帆风顺",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0062",
+      "text": "一举两得",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0063",
+      "text": "一石二鸟",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0064",
+      "text": "一视同仁",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0065",
+      "text": "一针见血",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0066",
+      "text": "一目了然",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0067",
+      "text": "一言为定",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0068",
+      "text": "一鼓作气",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0069",
+      "text": "一如既往",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0070",
+      "text": "一清二楚",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0071",
+      "text": "一丝不苟",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0072",
+      "text": "一应俱全",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0073",
+      "text": "水到渠成",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0074",
+      "text": "水落石出",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0075",
+      "text": "水滴石穿",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0076",
+      "text": "水泄不通",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0077",
+      "text": "水深火热",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0078",
+      "text": "水乳交融",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0079",
+      "text": "山清水秀",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0080",
+      "text": "高山流水",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0081",
+      "text": "饮水思源",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0082",
+      "text": "如鱼得水",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0083",
+      "text": "杯水车薪",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0084",
+      "text": "滴水不漏",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0085",
+      "text": "风和日丽",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0086",
+      "text": "风平浪静",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0087",
+      "text": "风雨同舟",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0088",
+      "text": "风调雨顺",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0089",
+      "text": "风吹草动",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0090",
+      "text": "风驰电掣",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0091",
+      "text": "风尘仆仆",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0092",
+      "text": "风起云涌",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0093",
+      "text": "春风得意",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0094",
+      "text": "乘风破浪",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0095",
+      "text": "两袖清风",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0096",
+      "text": "谈笑风生",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0097",
+      "text": "山高水长",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0098",
+      "text": "山穷水尽",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0099",
+      "text": "山重水复",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0100",
+      "text": "山明水秀",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0101",
+      "text": "山珍海味",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0102",
+      "text": "青山绿水",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0103",
+      "text": "开门见山",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0104",
+      "text": "愚公移山",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0105",
+      "text": "漫山遍野",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0106",
+      "text": "翻山越岭",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0107",
+      "text": "排山倒海",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0108",
+      "text": "稳如泰山",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0109",
+      "text": "不约而同",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0110",
+      "text": "不言而喻",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0111",
+      "text": "不知不觉",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0112",
+      "text": "不慌不忙",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0113",
+      "text": "不屈不挠",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0114",
+      "text": "不可思议",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0115",
+      "text": "不劳而获",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0116",
+      "text": "不翼而飞",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0117",
+      "text": "不耻下问",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0118",
+      "text": "不计其数",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0119",
+      "text": "不求甚解",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    },
+    {
+      "answerId": "idiom-0120",
+      "text": "不甘示弱",
+      "aliases": [],
+      "initials": null,
+      "tags": [
+        "development-sample"
+      ],
+      "source": "AI 辅助整理的开发样本，待人工逐条复核；未导入第三方词典",
+      "license": "pending-review",
+      "reviewStatus": "pending"
+    }
+  ]
+}

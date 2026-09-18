@@ -1,0 +1,38 @@
+{
+  "name": "kai-yi-ju",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=24.0.0"
+  },
+  "scripts": {
+    "dev": "node scripts/dev.mjs",
+    "build": "npm run content:check && next build && tsc -p tsconfig.server.json && node scripts/copy-content.mjs",
+    "start": "node scripts/dev.mjs --production",
+    "typecheck": "tsc --noEmit",
+    "test": "node --import tsx --test tests/*.test.ts",
+    "test:integration": "node --import tsx scripts/integration.ts",
+    "content:build": "node --import tsx scripts/build-content.ts",
+    "content:fetch": "node --import tsx scripts/fetch-content.ts",
+    "content:check": "node --import tsx scripts/build-content.ts --check && node --import tsx scripts/check-content.ts",
+    "content:release": "node --import tsx scripts/check-content.ts --release",
+    "check": "npm run content:check && npm run typecheck && npm test && npm run build"
+  },
+  "dependencies": {
+    "http-proxy": "^1.18.1",
+    "next": "^16.3.5",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "socket.io": "^4.8.3",
+    "socket.io-client": "^4.8.3"
+  },
+  "devDependencies": {
+    "@types/http-proxy": "^1.17.17",
+    "@types/node": "^24.13.4",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "tsx": "^4.23.13",
+    "typescript": "^5.9.3"
+  }
+}

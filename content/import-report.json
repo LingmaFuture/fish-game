@@ -1,0 +1,5587 @@
+{
+  "version": "0.2.0-local.5c1e988613c8",
+  "sourceRevision": "fe6d6c2e8baa82187f4c96bbe042e43f96c05666",
+  "rawRecords": 30895,
+  "importedFourCharacter": 29502,
+  "duplicates": 0,
+  "retainedSeed": 1,
+  "additions": 0,
+  "total": 29503,
+  "common": 120,
+  "prompts": 10,
+  "excludedCount": 1393,
+  "excluded": [
+    {
+      "text": "哀莫大于心死",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "爱博而情不专",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "爱则加诸膝，恶则坠诸渊",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "爱之欲其生",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "爱之欲其生，恶之欲其死",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "安乐窝",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "安于故俗，溺于旧闻",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "鞍不离马，甲不离身",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "鞍不离马背，甲不离将身",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "八公山上，草木皆兵",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "八九不离十",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "八仙过海，各显神通",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "八字没见一撇",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "八字没一撇",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "拔了萝卜地皮宽",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "拔赵帜立赤帜",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "拔赵帜易汉帜",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "白刀子进，红刀子出",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "白沙在涅，与之俱黑",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "百不为多，一不为少",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "百尺竿头，更进一步",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "百动不如一静",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "百花齐放，百家争鸣",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "百世师",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "百思不得其解",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "百万买宅，千万买邻",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "百闻不如一见",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "百星不如一月",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "百足之虫，断而不蹶",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "百足之虫，死而不僵",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "百足之虫，至断不蹶",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "百足之虫，至死不僵",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "败事有余，成事不足",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "搬起石头打自己的脚",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "板板六十四",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "版版六十四",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "半部论语治天下",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "邦以民为本",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "傍观者审，当局者迷",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "饱汉不知饿汉饥",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "饱暖生淫欲",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "饱暖思淫欲",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "饱人不知饿人饥",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "抱不平",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "卑卑不足道",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "卑之无甚高论",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "杯酒释兵权",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "杯中物",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "比上不足，比下有余",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "彼一时，此一时",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "毕其功于一役",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "闭门羹",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "闭塞眼睛捉麻雀",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "避其锐气，击其惰归",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "鞭长不及马腹",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "表壮不如里壮",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "表壮不如理壮",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "冰冻三尺，非一日之寒",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "冰炭不同炉",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "冰炭不同器",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "冰炭不相容",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "冰炭不言，冷热自明",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "兵败如山倒",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "兵藏武库，马入华山",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "兵来将挡，水来土掩",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "兵来将敌，水来土堰",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "兵来将迎，水来土堰",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "兵马不动，粮草先行",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "兵马未动，粮草先行",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "兵在精而不在多",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "病急乱投医",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "拨云雾见青天",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "不成器",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "不吃烟火食",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "不吃羊肉空惹一身膻",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "不打不成相识",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "不打不相识",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "不到黄河心不死",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "不得已而为之",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "不得已而用之",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "不登大雅之堂",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "不法古不修今",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "不费吹灰之力",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "不分青红皂白",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "不敢越雷池一步",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "不管三七二十一",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "不见棺材不落泪",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "不见棺材不下泪",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "不经一事，不长一智",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "不看僧面看佛面",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "不可同日而语",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "不能登大雅之堂",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "不能赞一词",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "不能赞一辞",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "不念僧面念佛面",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "不怕官，只怕管",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "不期然而然",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "不求有功，但求无过",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "不入虎穴，不得虎子",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "不入虎穴，焉得虎子",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "不塞不流，不止不行",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "不塞下流，不止不行",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "不识庐山真面目",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "不识人间有羞耻事",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "不是冤家不聚头",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "不为五斗米折腰",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "不问青红皂白",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "不幸而言中",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "不旋踵",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "不以辞害志",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "不以规矩，不成方圆",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "不以规矩，不能成方圆",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "不以人废言",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "不以一眚掩大德",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "不在其位，不谋其政",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "不知老之将至",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "不知人间有羞耻事",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "不知天高地厚",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "不知有汉，何论魏晋",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "不知者不罪",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "不自由，毋宁死",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "不足为外人道",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "布袋里老鸦",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "步步生莲花",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "沧横流",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "藏之名山，传之其人",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "藏诸名山，传之其人",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "差若毫厘，谬以千里",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "差以毫厘，谬以千里",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "差以毫厘，失之千里",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "差之毫厘，谬以千里",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "差之毫厘，失之千里",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "拆东墙补西墙",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "蝉翼为重，千钧为轻",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "长安居大不易",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "长江后浪推前浪",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "长他人志气，灭自己威风",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "朝里无人莫做官",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "朝闻道，夕死可矣",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "嗔拳不打笑面",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "陈谷子烂芝麻",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "成败在此一举",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "成人不自在，自在不成人",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "成事不足，败事有余",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "成也萧何，败也萧何",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "成也萧何败萧何",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "成则为王，败则为寇",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "成则为王，败则为虏",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "成则为王，败则为贼",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "城门失火，殃及池鱼",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "乘兴而来，败兴而归",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "秤砣虽小压千斤",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "吃不了兜着走",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "吃力不讨好",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "吃粮不管事",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "吃软不吃硬",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "吃一堑，长一智",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "吃硬不吃软",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "吃着碗里瞧着锅里",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "尺蚓穿堤，能漂一邑",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "尺有所短，寸有所长",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "抽段楔",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "仇人见面，分外眼红",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "仇人相见，分外明白",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "仇人相见，分外眼红",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "仇人相见，分外眼明",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "仇人相见，分外眼睁",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "丑媳妇总得见公婆",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "出其不意，攻其不备",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "出其不意，攻其无备",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "出其不意，掩其不备",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "出污泥而不染",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "出淤泥而不染",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "初生犊",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "初生牛犊不怕虎",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "初生之犊不惧虎",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "初生之犊不畏虎",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "杵臼交",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "传闻不如亲见",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "船到江心补漏迟",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "船到桥门自会直",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "船多不碍路",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "吹胡子瞪眼",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "吹皱一池春水",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "垂泽昆",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "春蚕到死丝方尽",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "春秋无义战",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "春生夏长，秋收冬藏",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "此处不留人，自有留人处",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "此地无银三百两",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "此而可忍，孰不可忍",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "此风不可长",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "此一时，彼一时",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "此一时彼一时",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "从善如登，从恶如崩",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "聪明反被聪明误",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "存十一于千百",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "打边鼓",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "打开天窗说亮话",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "打破沙锅问到底",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "打破砂锅问到底",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "打蛇打七寸",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "打死虎",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "打鸭惊鸳鸯",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "打鸭子上架",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "打肿脸充胖子",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "大旱望云霓",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "大开方便之门",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "大事不糊涂",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "大树底下好乘凉",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "大水冲了龙王庙",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "大眼望小眼",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "带着铃铛去做贼",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "丹之所藏者赤",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "单丝不成线",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "单则易折，众则难摧",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "淡泊以明志，宁静以致远",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "澹泊明志，宁静致远",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "当局者迷，旁观者清",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "当面锣，对面鼓",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "当面输心背面笑",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "道不同，不相为谋",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "道不同不相为谋",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "道高一尺，魔高一丈",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "道高益安，势高益危",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "道远知骥，世伪知贤",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "得道多助，失道寡助",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "得饶人处且饶人",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "得人者昌，失人者亡",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "地负涵",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "貂不足，狗尾续",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "掉书袋",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "丁是丁，卯是卯",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "钉是钉，铆是铆",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "丢下耙儿弄扫帚",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "东窗计",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "东道主",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "东方不亮西方亮",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "东风吹马耳",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "东风射马耳",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "东风压倒西风",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "东西南北客",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "东西南北人",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "东向而望，不见西墙",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "东隅已逝，桑榆非晚",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "冬寒抱冰，夏热握火",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "读书百遍，其义自见",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "读书破万卷",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "独此一家，别无分店",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "独木不成林",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "蠹啄剖梁柱",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "多行不义必自毙",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "多一事不如少一事",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "多一事不如省一事",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "恶虎不食子",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "恶事行千里",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "恶作剧",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "饿死事小，失节事大",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "耳报神",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "耳边风",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "耳旁风",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "耳闻不如面见",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "耳闻不如目见",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "耳闻是虚，眼观为实",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "二把刀",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "二虎相斗，必有一伤",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "二人同心，其利断金",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "二桃杀三士",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "二一添作五",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "二者不可得兼",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "发昏章第十一",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "法不传六耳",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "翻手为云，覆手为雨",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "翻手云覆手雨",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "凡事预则立，不预则废",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "反其道而行之",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "方以类聚，物以群分",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "防患于未然",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "防祸于未然",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "防民之口，甚于防川",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "放长线钓大鱼",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "放冷箭",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "放下屠刀，立地成佛",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "放之四海而皆准",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "放诸四海而皆准",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "分久必合，合久必分",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "焚林而田，竭泽而渔",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "丰年玉荒年谷",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "风从虎，云从龙",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "风高放火，月黑杀人",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "风马牛",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "风马牛不相及",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "风牛马不相及",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "风声鹤唳，草木皆兵",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "风雨亿",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "蜂虿作于怀袖",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "佛高一尺，魔高一丈",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "佛是金妆，人是衣妆",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "佛是金装，人是衣装",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "福不重至，祸必重来",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "福无双至，祸不单行",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "蜉蝣撼大树",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "附骥尾",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "富贵逼人来",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "富贵不能淫",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "蝮蛇螫手，壮士解腕",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "覆巢无完卵",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "赶浪头",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "赶鸭子上架",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "敢怒而不敢言",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "敢怨而不敢言",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "缸载笔",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "高不成，低不就",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "高不成低不就",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "高不凑低不就",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "高不辏低不就",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "高鸟尽，良弓藏",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "高义薄云天",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "割鸡焉用牛刀",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "歌于斯，哭于斯",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "隔山买老牛",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "隔行如隔山",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "各人自扫门前雪",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "各人自扫门前雪，莫管他家瓦上霜",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "更上一层楼",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "工欲善其事，必先利其器",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "公说公有理，婆说婆有理",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "公修公德，婆修婆德",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "功到自然成",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "攻其一点，不及其余",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "攻无不克，战无不胜",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "攻无不取，战无不胜",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "恭敬不如从命",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "觥饭不及壶飧",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "狗口里生不出象牙",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "狗口里吐不出象牙",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "狗咬吕洞宾",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "狗彘不食其余",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "狗猪不食其余",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "狗嘴里吐不出象牙",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "故纸堆",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "顾前不顾后",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "顾头不顾尾",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "顾左右而言他",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "瓜皮搭李树",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "瓜田不纳履，李下不整冠",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "瓜田不纳履，李下不正冠",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "刮地皮",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "挂羊头，卖狗肉",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "挂羊头卖狗肉",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "关东出相，关西出将",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "关门养虎，虎大伤人",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "观倡人",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "观今宜鉴古",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "光前泽",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "归师勿掩，穷寇勿追",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "贵冠履轻头足",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "贵人多忘事",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "过屠门而大嚼",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "过五关，斩六将",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "过五关斩六将",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "海内存知己，天涯若比邻",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "海水不可斗量",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "含着骨头露着肉",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "涵地负",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "韩信将兵，多多益善",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "韩信用兵，多多益办",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "汉贼不两立",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "毫不利己，专门利人",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "毫末不札，将寻斧柯",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "豪厘不伐，将用斧柯",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "豪末不掇，将成斧柯",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "好汉不吃眼前亏",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "好了疮疤忘了痛",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "好拿样",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "好女不穿嫁时衣",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "好事不出门，恶事行千里",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "好心做了驴肝肺",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "何乐而不为",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "何其相似乃尔",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "河东狮子吼",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "河海不择细流",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "河水不犯井水",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "河水不洗船",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "涸石烂",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "涸泽而渔，焚林而猎",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "黑漆皮灯笼",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "黑云压城城欲摧",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "恨铁不成钢",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "横挑鼻子竖挑眼",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "后来者居上",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "后浪催前浪",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "后浪推前浪",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "呼鹏马",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "呼之即来，挥之即去",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "猢狲入布袋",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "虎而冠",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "虎生三子，必有一彪",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "滑天下之大稽",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "化腐朽为神奇",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "化干戈为玉帛",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "画虎不成反类狗",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "画虎不成反类犬",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "画虎画皮难画骨",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "画龙不成反为狗",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "换汤不换药",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "皇皇不可终日",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "皇天不负苦心人",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "皇天不负有心人",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "黄钟毁弃，瓦釜雷鸣",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "惶惶不可终日",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "诲尔谆谆，听我藐藐",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "祸从口出，患从口入",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "祸兮福所倚，福兮祸所伏",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "饥者易为食，渴者易为饮",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "机不可失，失不再来",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "机不可失，时不再来",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "鸡蛋里找骨头",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "鸡口朋",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "鸡烂嘴巴硬",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "鸡犬之声相闻，老死不相往来",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "积财千万，不如薄技在身",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "积德泽",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "积土为山，积水为海",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "吉人自有天相",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "岌岌不可终日",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "急急如律令",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "急惊风撞着慢郎中",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "急来报佛脚",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "急先锋",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "疾风扫秋叶",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "疾风彰劲草",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "疾风知劲草",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "疾雷不及塞耳",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "疾雷不及掩耳",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "疾雷不暇掩耳",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "疾霆不暇掩目",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "己所不欲，勿施于人",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "既来之，则安之",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "既有今日，何必当初",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "夹板医驼子",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "家丑不可外谈",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "家丑不可外扬",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "家累千金，坐不垂堂",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "家书抵万金",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "家有敝帚，享之千金",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "家有弊帚，享之千金",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "假慈悲",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "假惺惺",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "嫁鸡随鸡，嫁狗随狗",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "奸同鬼蜮，行若狐鼠",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "尖担两头脱",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "兼听则明，偏信则暗",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "蒹葭倚玉树",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "见可而进，知难而退",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "见其一未见其二",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "见物不见人",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "见械大",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "见之不取，思之千里",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "江海不逆小流",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "江山好改，本性难移",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "江山好改，秉性难移",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "江山易改，本性难移",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "江山易改，秉性难移",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "江山易改，禀性难移",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "江水不犯河水",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "姜太公钓鱼，愿者上钩",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "将门无犬子",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "将欲取之，必先与之",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "狡兔死，良狗烹",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "狡兔死，良犬烹",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "脚踏两只船",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "教妇初来，教儿婴孩",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "捷雷不及掩耳",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "解铃还是系铃人",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "解铃还须系铃人",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "解铃还需系铃人",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "解铃须用系铃人",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "今朝有酒今朝醉",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "今日有酒今日醉",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "金无足赤，人无完人",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "金玉其外，败絮其中",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "紧箍咒",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "紧行无好步",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "尽信书不如无书",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "近水楼台先得月",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "近朱者赤，近墨者黑",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "进思尽忠，退思补过",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "经一事，长一智",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "惊天地，泣鬼神",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "精诚所至，金石为开",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "井水不犯河水",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "静如处女，动如脱兔",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "静若处子，动若脱兔",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "九鼎不足为重",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "九回肠",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "九牛二虎之力",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "九牛拉不转",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "九折臂",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "久旱逢甘雨",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "酒逢知己千杯少",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "旧瓶装新酒",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "救寒莫如重裘",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "救民于水火",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "救人一命，胜造七级浮屠",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "居移气，养移体",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "鞠躬尽瘁，死而后已",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "鞠躬尽力，死而后已",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "举如鸿毛，取如拾遗",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "拒人于千里之外",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "涓涓不壅，终为江河",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "卷地皮",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "决胜于千里之外",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "攫金不见人",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "君子一言，快马一鞭",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "君子之交淡如水",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "开弓不放箭",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "开口见喉咙",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "开门七件事",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "看菜吃饭，量体裁衣",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "看人下菜碟儿",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "慷他人之慨",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "糠菜半年粮",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "靠山吃山，靠水吃水",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "苛政猛于虎",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "可望不可即",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "可望而不可及",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "可望而不可即",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "空城计",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "空口说白话",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "口惠而实不至",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "口头禅",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "苦海无边，回头是岸",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "快刀斩乱麻",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "快刀斩乱丝",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "拉大旗作虎皮",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "来而不往非礼也",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "来世不可待",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "来是是非人，去是是非者",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "来者不善，善者不来",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "癞蛤蟆想吃天鹅肉",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "稂不稂莠不莠",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "浪子回头金不换",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "老而不死是为贼",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "老虎头上扑苍蝇",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "老虎头上搔痒",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "老江湖",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "老鼠过街，人人喊打",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "老死不相往来",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "乐晶生",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "雷声大，雨点小",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "冷锅里爆豆",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "篱牢犬不入",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "礼轻情意重",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "礼轻人意重",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "里程碑",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "鲤鱼跳龙门",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "立于不败之地",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "两雄不并立",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "辽东豕",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "烈火见真金",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "烈士暮年，壮心不已",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "裂冠毁冕，拔本塞源",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "临时抱佛脚",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "菱角磨作鸡头",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "流水不腐，户枢不蠹",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "流水不腐，户枢不蝼",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "流言止于智者",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "留得青山在，不怕没柴烧",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "柳暗花明又一村",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "柳树上着刀，桑树上出血",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "六耳不同谋",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "漏瓮沃焦釜",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "露马脚",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "庐山真面目",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "鹿死不择荫",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "鹿死不择音",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "路见不平，拔刀相助",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "路遥知马力，日久见人心",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "驴唇不对马嘴",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "驴头不对马嘴",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "吕端大事不糊涂",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "乱弹琴",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "捋虎须",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "落花有意，流水无情",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "麻雀虽小，肝胆俱全",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "麻雀虽小，五脏俱全",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "马后炮",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "马前卒",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "马上得天下",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "瞒上不瞒下",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "满天飞",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "满招损，谦受益",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "盲人骑瞎马",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "冒天下之大不韪",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "眉毛胡子一把抓",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "眉头一皱，计上心来",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "门外汉",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "闷葫芦",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "迷魂汤",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "迷魂阵",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "猕猴骑土牛",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "靡不有初，鲜克有终",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "民以食为天",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "敏于事，慎于言",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "名不正，言不顺",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "名师出高徒",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "明察秋毫，不见舆薪",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "明察秋毫之末，而不见舆薪",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "明鼓而攻之",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "明枪好躲，暗箭难防",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "明枪容易躲，暗箭最难防",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "明枪易躲，暗箭难防",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "明人不做暗事",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "明修栈道，暗度陈仓",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "明修栈道，暗渡陈仓",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "鸣鼓而攻之",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "摸不着头脑",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "磨不磷，涅不缁",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "磨刀不误砍柴工",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "磨而不磷，涅而不缁",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "魔高一尺，道高一丈",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "抹一鼻子灰",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "莫须有",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "谋事在人，成事在天",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "牡丹虽好，终须绿叶扶持",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "难于上青天",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "泥菩萨过江",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "鲇鱼上竹竿",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "鲇鱼缘竹竿",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "鸟兽散",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "宁可清贫，不作浊富",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "宁可玉碎，不能瓦全",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "宁为鸡口，不为朋",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "宁为鸡口，无为朋",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "宁为鸡口，毋为朋",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "宁为玉碎，不为瓦全",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "牛不喝水强按头",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "牛头不对马面",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "牛头不对马嘴",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "驽马恋栈豆",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "怒从心上起，恶向胆边生",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "女大不中留",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "女大十八变",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "盘古开天地",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "跑了和尚跑不了庙",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "跑了和尚跑不了寺",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "跑龙套",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "赔了夫人又折兵",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "盆朝天，碗朝地",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "蓬生麻中，不扶自直",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "碰钉子",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "皮笑肉不笑",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "皮之不存，毛将焉附",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "匹夫无罪，怀璧其罪",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "贫无立锥之地",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "平地起孤丁",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "平地一声雷",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "平时不烧香，急来抱佛脚",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "泼冷水",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "破鼓乱人捶",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "破题儿第一遭",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "破天荒",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "七菜倒",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "七菜痛",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "七次量衣一次裁",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "七返丹",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "七年之病，求三年之艾",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "骐骥困盐车",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "骑曹不记马",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "骑鹤上维扬",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "骑鹤上扬州",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "骑鹤望扬州",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "骑驴风雪中",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "骑驴吟灞上",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "骑牛读汉书",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "骑上扬州鹤",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "棋高一着，缚手缚脚",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "起死人，肉白骨",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "起死人而肉白骨",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "起死人肉白骨",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "弃之如敝屐",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "千部一腔，千人一面",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "千棰打锣，一棰定声",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "千锤打锣，一锤定音",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "千夫诺诺，不如一士谔谔",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "千金用兵，百金求间",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "千金之裘，非一狐之腋",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "千军易得，一将难求",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "千里不同风，百里不同俗",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "千里寄鹅毛",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "千里餽粮，士有饥色",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "千里送鹅毛",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "千里姻缘使线牵",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "千里姻缘一线牵",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "千里之堤，毁于蚁穴",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "千里之堤，溃于蚁穴",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "千里之行，始于足下",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "千日打柴一日烧",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "千日斫柴一日烧",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "千闻不如一见",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "千羊之皮，不如一狐之腋",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "牵一发而动全身",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "前不巴村，后不巴店",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "前不巴村，后不着店",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "前不见古人，后不见来者",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "前门拒虎，后门进狼",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "前门去虎，后门进狼",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "前怕狼，后怕虎",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "前怕龙，后怕虎",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "前人失脚，后人把滑",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "前人栽树，后人乘凉",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "前人种树，后人乘凉",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "前事不忘，后事之师",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "前无古人，后无来者",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "前误则",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "前言不搭后语",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "强不知以为知",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "强将手下无弱兵",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "强龙不压地头蛇",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "强中更有强中手",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "强中自有强中手",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "墙倒众人推",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "墙有耳",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "敲边鼓",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "敲门砖",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "敲竹杠",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "桥归桥，路归路",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "桥是桥，路是路",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "巧妇难为无米之炊",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "窍附会",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "窍傅会",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "窃钩者诛，窃国者侯",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "擒贼先擒王",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "青出于蓝而胜于蓝",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "轻尘栖弱草",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "清官难断家务事",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "清官能断家务事",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "清君侧",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "清水无大鱼",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "清一色",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "蜻蜓撼石柱",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "情人眼里出西施",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "请将不如激将",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "庆父不死，鲁难未已",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "茕茕孑立，形影相吊",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "秋风扫落叶",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "求大同，存小异",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "求马于唐市",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "求马于唐肆",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "求人不如求己",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "取法乎上，仅得乎中",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "取之不尽，用之不竭",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "全国一盘棋",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "拳不离手，曲不离口",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "拳头上立得人，胳膊上走得路",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "犬键踪",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "群起而攻之",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "让礼一寸，得礼一尺",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "热锅上的蚂蚁",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "热锅上蝼蚁",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "热锅上蚂蚁",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "人不犯我，我不犯人",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "人不可貌相",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "人不为己，天诛地灭",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "人不知，鬼不觉",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "人而无信，不知其可",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "人非圣贤，孰能无过",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "人逢喜事精神爽",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "人急至",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "人间重晚晴",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "人怕出名猪怕壮",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "人人得而诛之",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "人生何处不相逢",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "人生路不熟",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "人生面不熟",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "人生七十古来稀",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "人生如朝露",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "人生自古谁无死",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "人同此心，心同此理",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "人为财死，鸟为食亡",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "人为刀俎，我为鱼肉",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "人无远虑，必有近忧",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "人心不足蛇吞象",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "人心隔肚皮",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "人心齐，泰山移",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "人之将死，其言也善",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "仁者见仁，智者见智",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "任凭风浪起，稳坐钓鱼船",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "日出而作，日入而息",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "日计不足，岁计有余",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "日近长安远",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "日久见人心",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "日月经天，江河行地",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "日中则昃，月满则亏",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "容膝之安，一肉之味",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "肉中刺",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "如堕五里雾中",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "如人饮水，冷暖自知",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "如入无人之境",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "如闻其声，如见其人",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "如鱼饮水，冷暖自知",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "乳犊不怕虎",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "入宝山而空回",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "瑞雪兆丰年",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "若要人不知，除非己莫为",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "塞翁失马，安知非福",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "塞翁失马，焉知非福",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "三百六十行",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "三寸不烂之舌",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "三寸鸟，七寸嘴",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "三分似人，七分似鬼",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "三分像人，七分似鬼",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "三分像人，七分像鬼",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "三夫成市虎",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "三个臭皮匠，赛过诸葛亮",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "三过其门而不入",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "三家村",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "三句不离本行",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "三句话不离本行",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "三拳不敌四手",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "三人行，必有我师",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "三日打鱼，两日晒网",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "三十六策，走为上策",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "三十六计，走为上计",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "三十年河东，三十年河西",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "三思而后行",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "三天打鱼，两天晒网",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "三下五除二",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "三月不知肉味",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "三折肱，为良医",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "三折肱为良医",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "杀风景",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "杀鸡焉用牛刀",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "杀人不见血",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "杀人不眨眼",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "山高皇帝远",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "山河易改，本性难移",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "山锐则不高",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "山上无老虎，猴子称大王",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "山阴道上，应接不暇",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "山雨欲来风满楼",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "山中无好汉，猢猻称霸王",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "善有善报，恶有恶报",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "上不着天，下不着地",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "上方不足，下比有余",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "上梁不正下梁歪",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "上天无路，入地无门",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "上无片瓦，下无插针之地",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "上无片瓦，下无卓锥",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "少壮不努力，老大徒伤悲",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "蛇化为龙，不变其文",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "舍得一身剐，敢把皇帝拉下马",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "射人先射马",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "伸手不见五指",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "身后识方干",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "身在曹营心在汉",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "身在江湖，心存魏阙",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "身在江湖，心悬魏阙",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "身在林泉，心怀魏阙",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "神不知，鬼不觉",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "神不知鬼不觉",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "神不知鬼不晓",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "神而明之，存乎其人",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "神龙见首不见尾",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "生米煮成熟饭",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "生米做成熟饭",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "胜败乃兵家常事",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "胜不骄，败不馁",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "胜读十年书",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "盛名之下，其实难符",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "盛名之下，其实难副",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "失败为成功之母",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "失之东隅，收之桑榆",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "失之毫厘，差以千里",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "失之毫厘，差之千里",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "失之毫厘，谬以千里",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "失之千里，差若毫厘",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "狮象搏兔，皆用全力",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "狮子搏兔，亦用全力",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "狮子大开口",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "湿肉伴干柴",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "十八般兵器",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "十八般武艺",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "十八层地狱",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "十目所视，十手所指",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "十年九不遇",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "十年生聚，十年教训",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "十年树木，百年树人",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "十日一水，五日一石",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "十万八千里",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "石尤风",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "时势造英雄",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "识二五而不知十",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "识时务者为俊杰",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "食不厌精，脍不厌细",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "使功不如使过",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "始愿不及此",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "士别三日，当刮目相待",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "士别三日，刮目相待",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "士可杀不可辱",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "士为知己者死",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "世上无难事",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "世上无难事，只怕有心人",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "事不关己，高高挂起",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "事后诸葛亮",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "事急无君子",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "事实胜于雄辩",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "事无三不成",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "事有必至，理有固然",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "视而不见，听而不闻",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "视之不见，听之不闻",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "试金石",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "是非只为多开口",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "是非自有公论",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "是可忍，孰不可忍",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "手不土",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "手无缚鸡之力",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "守财奴",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "守如处女，出如脱兔",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "寿山福",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "书同文，车同轨",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "鼠键踪",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "蜀中无大将，廖化作先锋",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "树倒猢孙散",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "树倒猢狲散",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "树高千丈，叶落归根",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "树欲静而风不宁",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "树欲静而风不停",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "树欲静而风不止",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "树欲息而风不停",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "数东瓜，道茄子",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "耍花腔",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "双斧伐孤树",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "水火不兼容",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "水火不相容",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "水火相济，盐梅相成",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "水激则旱，矢激则远",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "水可载舟，亦可覆舟",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "水来伸手，饭来张口",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "水流湿，火就燥",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "水则载舟，水则覆舟",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "水至清则无鱼",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "顺道者昌，逆德者亡",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "顺德者昌，逆德者亡",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "顺天者昌，逆天者亡",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "顺天者存，逆天者亡",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "顺我者昌，逆我者亡",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "顺我者生，逆我者死",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "顺之者昌，逆之者亡",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "顺之者兴，逆之者亡",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "说到曹操，曹操就到",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "说时迟，那时快",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "说一是一，说二是二",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "司马牛之叹",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "司马昭之心",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "司马昭之心，路人皆知",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "死马当活马医",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "死生有命，富贵在天",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "死无葬身之地",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "死诸葛能走生仲达",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "死诸葛吓走生仲达",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "四海皆兄弟",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "四海之内皆兄弟",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "四体不勤，五谷不分",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "送佛送到西",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "送佛送到西天",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "送君千里，终须一别",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "苏韩潮",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "虽死之日，犹生之年",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "岁寒知松柏",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "损人不利己",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "损有余补不足",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "他山之石，可以攻玉",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "他乡遇故知",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "塔尖上功德",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "踏破铁鞋无觅处，得来全不费功夫",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "太公钓鱼，愿者上钩",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "太岁头上动土",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "泰山不让土壤",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "贪多嚼不烂",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "摊书傲百城",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "摊书拥百城",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "谈笑有鸿儒",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "汤里来，水里去",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "堂上一呼，阶下百诺",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "螳螂捕蝉，黄雀在后",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "桃李遍天下",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "桃李不言，下自成蹊",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "桃李不言，下自成行",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "桃李满天下",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "桃李无言，下自成蹊",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "替古人担忧",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "替古人耽忧",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "替罪羊",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "天不怕，地不怕",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "天低吴楚，眼空无物",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "天高皇帝远",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "天机不可泄漏",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "天机不可泄露",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "天若有情天亦老",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "天时地利人和",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "天网恢恢，疏而不漏",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "天无绝人之路",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "天下本无事，庸人自扰之",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "天下乌鸦一般黑",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "天下兴亡，匹夫有责",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "天有不测风云",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "天有不测风云，人有旦夕祸福",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "天字第一号",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "挑得篮里便是菜",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "跳到黄河洗不清",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "跳进黄河洗不清",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "跳在黄河洗不清",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "铁棒磨成针",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "铁杵磨成针",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "听见风就是雨",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "听其言而观其行",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "同生死，共存亡",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "同声相应，同气相求",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "铜山西崩，洛钟东应",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "偷鸡不着蚀把米",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "头痛灸头，脚痛灸脚",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "头痛医头，脚痛医脚",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "头痛治头，足痛治足",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "图穷匕首见",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "团团转",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "万变不离其宗",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "万夫不当之勇",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "万事俱备，只欠东风",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "万丈高楼平地起",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "王顾左右而言他",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "王子犯法，庶民同罪",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "忘年交",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "忘形交",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "危急存亡之秋",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "为虺弗摧，为蛇若何",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "为五斗米折腰",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "为渊驱鱼，为丛驱爵",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "为渊驱鱼，为丛驱雀",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "未可同日而语",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "温良恭俭让",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "文武之道，一张一弛",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "闻名不如见面",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "稳坐钓鱼船",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "卧榻之旁，岂容他人鼾睡",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "乌头白，马生角",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "乌头白马生角",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "屋上乌",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "无敌于天下",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "无毒不丈夫",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "无风不起浪",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "无风三尺浪",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "无佛处称尊",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "无根之木，无源之水",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "无官一身轻",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "无何有之乡",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "无可奈何花落去",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "无可无不可",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "无立锥之地",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "无面目见江东父老",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "无巧不成话",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "无巧不成书",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "无容身之地",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "无事不登三宝殿",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "无所不尽其极",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "无所不用其极",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "无所措手足",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "无所错手足",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "无所施其伎",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "无所施其技",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "无天于上，无地于下",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "无盐不解淡",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "无用武之地",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "无源之水，无本之末",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "无源之水，无本之木",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "吾家千里驹",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "梧桐一叶落",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "五里雾",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "五十步笑百步",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "五月粜新谷",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "勿谓言之不预也",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "物以希为贵",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "物以稀为贵",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "嬉笑怒骂，皆成文章",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "习惯成自然",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "喜怒不形于色",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "下笔千言，离题万里",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "下马威",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "下乔木入幽谷",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "夏虫不可以语冰",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "先下手为强",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "先小人，后君子",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "相视而笑，莫逆于心",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "想当然",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "项庄舞剑，意在沛公",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "项庄舞剑，志在沛公",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "项庄之剑，志在沛公",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "象煞有介事",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "像煞有介事",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "小不忍则乱大谋",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "小鹿触心头",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "小巫见大巫",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "笑面虎",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "挟天子以令天下",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "挟天子以令诸侯",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "心病还须心药医",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "心有灵犀一点通",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "心有余而力不足",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "心之官则思",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "惺惺惜惺惺",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "行百里者半九十",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "行百里者半于九十",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "行不得也哥哥",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "行不更名，坐不改姓",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "行行出状元",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "兄弟阋于墙，外御其侮",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "雄纠纠，气昂昂",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "羞以朋",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "朽木不可雕",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "秀才不出门，全知天下事",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "学而时习之",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "学而优则仕",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "学然后知不足，教然后知困",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "学如不及，犹恐失之",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "学书不成，学剑不成",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "血肉凝",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "熏莸不同器",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "薰莸不同器",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "迅雷不及掩耳",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "哑子吃黄连",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "烟不出火不进",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "延津较",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "严以律己，宽以待人",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "言必信，行必果",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "言而无文，行之不远",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "言寡尤，行寡悔",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "言有尽而意无穷",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "言语妙天下",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "言者无罪，闻者足戒",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "言者谆谆，听者藐藐",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "言之不文，行之不远",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "言之无文，行而不远",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "言之无文，行之不远",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "言之谆谆，听之藐藐",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "眼不见，心不烦",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "眼不见为净",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "眼观四处，耳听八方",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "眼观四路，耳听八方",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "眼中钉",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "艳如桃李，冷若冰霜",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "燕雀安知鸿鹄之志",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "燕雀安知鸿鹄志",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "燕雀岂知雕鹗志",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "羊毛出在羊身上",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "养兵千日，用兵一时",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "养兵千日，用在一朝",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "养儿代老，积谷防饥",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "养儿待老，积谷防饥",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "养儿防老，积谷防饥",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "养虎自贻灾",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "养虎自遗患",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "养军千日，用军一时",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "养军千日，用在一朝",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "养军千日，用在一时",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "养子防老，积谷防饥",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "摇亿摆",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "咬人狗儿不露齿",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一百二十行",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一棒一条痕",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一报还一报",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一鼻孔出气",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一鞭一条痕",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一波才动万波随",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一波未平，一波又起",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一不压众，百不随一",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一不做，二不休",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一步一个脚印",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一朝权在手，便把令来行",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一朝天子一朝臣",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一尺水翻腾做百丈波",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一尺水翻腾做一丈波",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一尺水十丈波",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一传十，十传百",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一床锦被遮盖",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一锤子买卖",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一寸光阴一寸金",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一代不如一代",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一刀切",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一动不如一静",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一而二，二而三",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一而二，二而一",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一而光",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一而再，再而三",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一饭三吐哺",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一分耕耘，一分收获",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一风吹",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一佛出世，二佛涅盘",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一佛出世，二佛涅槃",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一佛出世，二佛升天",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一佛出世，二佛生天",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一夫当关，万夫莫开",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一个巴掌拍不响",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一个萝卜一个坑",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一棍子打死",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一举手之劳",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一客不烦二主",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一口吸尽西江水",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一块石头落地",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一块石头落了地",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一溜烟",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一年之计在于春",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一牛鸣",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一硼地",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一掊土",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一钱不落虚空地",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一去不复返",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一犬吠形，百犬吠声",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一人传虚，万人传实",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一人得道，鸡犬升天",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一人敌",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一人飞升，仙及鸡犬",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一人善射，百夫决拾",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一人向隅，满坐不乐",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一人之下，万人之上",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一日不见，如隔三秋",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一山不藏二虎",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一身都是胆",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一身而二任",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一失足成千古恨",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一十八般兵器",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一十八般武艺",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一十八层地狱",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一是一，二是二",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一手独拍，虽疾无声",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一退六二五",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一碗水端平",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一文钱难倒英雄汉",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一问三不知",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一窝蜂",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一物降一物",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一蟹不如一蟹",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一言既出，驷马难追",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一言堂",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一言以蔽之",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一叶落知天下秋",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一叶障目，不见泰山",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一渊不两蛟",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一则一，二则二",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一则以喜，一则以惧",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一着被蛇咬，三年怕井绳",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一着不慎，满盘皆输",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一子出家，九祖升天",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一子出家，七祖昻天",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一子出家，七祖升天",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一子悟道，九族生天",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一字长蛇阵",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "一字师",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "衣来伸手，饭来张口",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "依本画葫芦",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "依葫芦画瓢",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "依样画葫芦",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "疑人勿用，用人勿疑",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "疑心生暗鬼",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "以己之心，度人之腹",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "以己之心，度人之心",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "以狸致鼠、以冰致绳",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "以其昏昏，使人昭昭",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "以其人之道，还治其人之身",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "以天下为己任",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "以小人之心，度君子之腹",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "以眼还眼，以牙还牙",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "以子之矛，攻子之盾",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "音相应",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "银样蜡枪头",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "银样閖枪头",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "应声虫",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "英雄所见略同",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "英雄无用武之地",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "嘤其鸣矣，求其友声",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "蝇附骥尾而致千里",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "油干灯草尽",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "有鼻子有眼",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "有福同享，有祸同当",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "有福同享，有难同当",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "有过之，无不及",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "有过之而无不及",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "有过之无不及",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "有其父必有其子",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "有钱能使鬼推磨",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "有天没日头",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "有眼不识泰山",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "有一搭没一搭",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "有一利必有一弊",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "有则改之，无则加勉",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "有则改之，无则嘉勉",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "有志不在年高",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "有志者事竟成",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "右传之八章",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "右手画圆，左手画方",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "愚者千虑，必有一得",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "愚者千虑，或有一得",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "愚者千虑，亦有一得",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "与人方便，自己方便",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "玉不琢，不成器",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "郁郁不得志",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "欲得而甘心",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "欲加之罪，何患无辞",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "欲人勿知，莫若勿为",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "欲速则不达",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "鹬蚌持争，渔翁得利",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "鹬蚌相持，渔人得利",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "鹬蚌相持，渔翁得利",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "鹬蚌相争，渔翁得利",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "冤各有头，债各有主",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "冤有头，债有主",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "渊源有自来",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "远来和尚好看经",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "远亲不如近邻",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "远水不解近渴",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "远水不救近火",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "远水解不了近渴",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "远水救不得近火",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "远在天边，近在眼前",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "月晕而风，础润而雨",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "月晕知风，础润知雨",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "运用之妙，存乎一心",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "运用之妙，在于一心",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "宰相肚里好撑船",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "再实之根必伤",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "在人矮檐下，怎敢不低头",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "糟糠之妻不下堂",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "凿空褥",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "早知今日，悔不当初",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "毡袜裹脚靴",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "战无不胜，攻无不克",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "战无不胜，攻无不取",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "张公吃酒李公颠",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "张公吃酒李公醉",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "召之即来，挥之即去",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "照葫芦画瓢",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "这山望着那山高",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "针尖对麦芒",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "真金不怕火",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "真金不怕火炼",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "真人不露相",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "争名于朝，争利于市",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "知其不可而为之",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "知其一，不知其二",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "知其一不知其二",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "知人知面不知心",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "知无不言，言无不尽",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "知之为知之，不知为不知",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "知子莫若父",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "执牛耳",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "只此一家，别无分店",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "只见树木，不见森林",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "只可意会，不可言传",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "只听楼梯响，不见人下来",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "只许州官放火，不许百姓点灯",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "只要功夫深，铁杵磨成针",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "只知其一，不知其二",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "只知其一，未知其二",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "只重衣衫不重人",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "掷地作金石声",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "鸷鸟将击，卑飞敛翼",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "鸷鸟累百，不如一鹗",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "智者见智，仁者见仁",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "智者千虑，必有一失",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "智者千虑，或有一失",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "置之死地而后快",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "置之死地而后生",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "中河失舟，一壶千金",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "中流失舟，一壶千金",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "种瓜得瓜，种豆得豆",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "众人拾柴火焰高",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "重赏之下，必有死夫",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "重赏之下，必有勇夫",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "重足而立，侧目而视",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "朱门酒肉臭，路有冻死骨",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "逐客令",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "着三不着两",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "自食其恶果",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "自以为得计",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "踨高天，蹐厚地",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "走过场",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "祖述尧舜，宪章文武",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "嘴尖舌头快",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "醉翁之意不在酒",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "坐山观虎斗",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "做一日和尚撞一日钟",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "做一日和尚撞一天钟",
+      "reason": "not_four_han_characters"
+    },
+    {
+      "text": "做一天和尚撞一天钟",
+      "reason": "not_four_han_characters"
+    }
+  ]
+}
